@@ -1,5 +1,5 @@
 # The Worst Passwords
-先上字典[字典](https://github.com/shawntns/top-100-worst-passwords/blob/master/dic.png)
+## 废话前，先上[字典](https://github.com/shawntns/top-100-worst-passwords/blob/master/dic.txt)
 
 ## 恭喜'123456'同学连续7年喜提最烂密码头衔
 ![近9年趋势](https://github.com/shawntns/top-100-worst-passwords/blob/master/trends.png)
