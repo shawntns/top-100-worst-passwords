@@ -1,4 +1,7 @@
-# The Worst Passwords 
+# The Worst Passwords
+
+## 恭喜'123456'喜提"连续7年最糟糕密码"头衔
+![近9年趋势](https://github.com/shawntns/top-100-worst-passwords/blob/master/trends.png)
 
 ## The List of 100 Worst Passwords of 2019
 
