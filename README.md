@@ -1,7 +1,11 @@
 # The Worst Passwords
+先上字典[字典](https://github.com/shawntns/top-100-worst-passwords/blob/master/dic.png)
 
-## 恭喜'123456'喜提"连续7年最糟糕密码"头衔
+## 恭喜'123456'同学连续7年喜提最烂密码头衔
 ![近9年趋势](https://github.com/shawntns/top-100-worst-passwords/blob/master/trends.png)
+
+## Make my password GREAT AGAIN!
+![donald](https://github.com/shawntns/top-100-worst-passwords/blob/master/donald.png)
 
 ## The List of 100 Worst Passwords of 2019
 
