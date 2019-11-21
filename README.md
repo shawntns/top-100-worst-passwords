@@ -1,6 +1,6 @@
-# top-100-worst-passwords
+# The Worst Passwords 
 
-## The Top 100 worst paswwords 2019
+## The List of 100 Worst Passwords of 2019
 
 - #1 123456
 - #2 password
